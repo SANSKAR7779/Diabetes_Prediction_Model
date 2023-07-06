@@ -1,2 +1,2 @@
 # Diabetes_Prediction_Model
-It is a ML model that predicts the diabetes of the person.
+It is an ML model that predicts whether a person is diabetic or not.
